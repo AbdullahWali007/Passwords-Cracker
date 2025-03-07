@@ -33,7 +33,7 @@ This script demonstrates how Chrome stores passwords and how they can be retriev
    ```
 3. Run the script:
    ```bash
-   python script.py
+   python Passwords Cracker.py
    ```
 
 ## 📌 Important Notes
